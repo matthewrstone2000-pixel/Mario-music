@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48.992 51.5">
+  <defs>
+    <style>
+      .cls-1{fill:#0c090f;opacity:0.4}
+      .cls-2{fill:#6b0c06;stroke:#0c090f;stroke-width:1.5;stroke-linejoin:round}
+      .cls-3{fill:#4a0502;stroke:#0c090f;stroke-width:1.75}
+      .cls-4{fill:url(#linear-gradient-1);stroke:#0c090f;stroke-width:1.75}
+      .cls-5{fill:url(#linear-gradient-2);stroke:#0c090f;stroke-width:1.5}
+      .cls-6{fill:url(#radial-gradient-1)}
+      .cls-7{fill:url(#radial-gradient-2)}
+      .cls-8{fill:none;stroke:#736357;stroke-width:1.5;stroke-linecap:round}
+      .cls-9{fill:url(#linear-gradient-3);stroke:#0c090f;stroke-width:1.75;stroke-linejoin:round}
+      .cls-10{fill:#4a0502;opacity:0.5}
+      .cls-11{fill:url(#radial-gradient-3);stroke:#0c090f;stroke-width:2;stroke-linejoin:round}
+      .cls-12{fill:#290200;opacity:0.5}
+      .cls-13{fill:#fff5db;opacity:0.9}
+      .cls-14{fill:#8a7461;stroke:#0c090f;stroke-width:1.5}
+    </style>
+    <linearGradient id="linear-gradient-1" x1="14.255" y1="32" x2="14.255" y2="38.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cfb9a5"/>
+      <stop offset="1" stop-color="#8a7461"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="12.496" y1="13.25" x2="12.496" y2="27.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1622"/>
+      <stop offset="1" stop-color="#0c090f"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="0" cy="0" r="3.5" gradientTransform="matrix(1 0 0 0.429 19.996 20.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.3" stop-color="#ffd633"/>
+      <stop offset="1" stop-color="#ff8c00" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0" cy="0" r="3.5" gradientTransform="matrix(1 0 0 0.429 28.996 20.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.3" stop-color="#ffd633"/>
+      <stop offset="1" stop-color="#ff8c00" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="10.496" y1="28" x2="13.889" y2="41.36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cc2418"/>
+      <stop offset="1" stop-color="#6b0c06"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="0" cy="0" r="37.594" gradientTransform="matrix(1 0 0 0.447 19.797 5.2)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff6b57"/>
+      <stop offset="0.6" stop-color="#cc2418"/>
+      <stop offset="1" stop-color="#5e0500"/>
+    </radialGradient>
+  </defs>
+  <title>badass_mushroom_hero.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <ellipse cx="24.496" cy="49" rx="14" ry="2.5" class="cls-1"/>
+    <polygon points="13.496,34 8.496,45 14.496,43 24.496,45 34.496,43 40.496,45 35.496,34" class="cls-2"/>
+    <polygon points="12.496,44 21.496,44 22.496,48 11.496,48" class="cls-3"/>
+    <polygon points="27.496,44 36.496,44 37.496,48 26.496,48" class="cls-3"/>
+    <path d="M14.496 32 C11.496 41 37.496 41 34.496 32 Z" class="cls-4"/>
+    <path d="M12.496 20 C12.496 11 36.496 11 36.496 20 C36.496 30 12.496 30 12.496 20 Z" class="cls-5"/>
+    <path d="M16.496 19 C19.163 19 21.496 19.667 23.496 21 C20.829 21.667 18.829 22 17.496 22 Z" class="cls-6"/>
+    <path d="M32.496 19 C29.829 19 27.496 19.667 25.496 21 C28.163 21.667 30.163 22 31.496 22 Z" class="cls-7"/>
+    <path d="M21.496 26 C22.829 24.667 24.496 24.833 26.496 26.5" class="cls-8"/>
+    <line x1="26.496" y1="26.5" x2="27.496" y2="25.5" class="cls-8"/>
+    <path d="M10.496 28 C19.829 30.667 29.163 30.667 38.496 28 C35.829 33.333 31.163 35.667 24.496 35 C17.829 35.667 13.163 33.333 10.496 28 Z" class="cls-9"/>
+    <path d="M13.496 31 C20.829 33.667 28.163 33.667 35.496 31 C28.163 35 20.829 35 13.496 31 Z" class="cls-10"/>
+    <g id="rugged-cap">
+      <path d="M24.496 1 C47.496 1 51.496 21 45.496 22 C37.496 19 11.496 19 3.496 22 C-2.504 21 1.496 1 24.496 1 Z" class="cls-11"/>
+      <path d="M3.496 22 C11.496 19 37.496 19 45.496 22 C43.496 24 5.496 24 3.496 22 Z" class="cls-12"/>
+      <circle cx="25.496" cy="6" r="4" class="cls-13"/>
+      <circle cx="10.496" cy="9" r="3.2" class="cls-13"/>
+      <circle cx="38.496" cy="11" r="3.8" class="cls-13"/>
+      <ellipse cx="18.496" cy="15" rx="2.5" ry="1.5" class="cls-13"/>
+      <ellipse cx="31.496" cy="14" rx="2.2" ry="1.8" class="cls-13"/>
+      <circle cx="5.496" cy="15" r="1.5" class="cls-13"/>
+      <circle cx="43.496" cy="16" r="1.5" class="cls-13"/>
+    </g>
+    <circle cx="13.496" cy="35" r="2" class="cls-14"/>
+    <circle cx="35.496" cy="35" r="2" class="cls-14"/>
+  </g>
+</svg>
